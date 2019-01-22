@@ -18,7 +18,7 @@ Ces différentes missions vous permettront d’acquérir de nouvelles compétenc
 
 * Intégrer la SensioLabs University : programme unique et dédié à la montée en compétences en PHP, Symfony et son écosystème.
 * Participer à des conférences internationales, dont les SymfonyLive, comme auditeur ou comme intervenant.
-* Profiter de notre table de ping-pong pour la pause et des croissants pour le petit-déjeuner.
+* Profiter de notre babyfoot pour la pause et des croissants pour le petit-déjeuner.
 * Danser au rythme d’un orchestre pour la grande soirée de l’été puis de noël avec tous les pôles en allant du marketing, aux devs et même le pôle RH ou la compta !
 
 Cela fait aussi partie de l’Aventure SensioLabs avec un grand A !
