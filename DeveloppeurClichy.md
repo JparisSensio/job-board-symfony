@@ -34,6 +34,7 @@ Cela fait aussi partie de l’Aventure SensioLabs avec un grand A !
 
 
 **Où :** Clichy
+
 **Type de contrat:** CDI
 
 
