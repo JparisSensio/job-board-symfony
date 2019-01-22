@@ -29,7 +29,7 @@ Cela fait aussi partie de l’Aventure SensioLabs avec un grand A !
 * Vous avez également suivi une formation structurante (BAC+3/5) qui vous permet de maîtriser et de mettre en pratique les grands principes et les petites subtilités de l’art du développement web.
 * Vous avez mis en pratique et écrit des milliers de lignes de code depuis les trois ou quatre dernières années de votre vie professionnelle.
 * **PHP, POO, Symfony, Linux, Git et les bases de données sont vos plus fidèles alliés.**
-* Vous côtoyez aussi **Varnish; Solr et/ou Elastic Search; Tests (phpunit, behat, casper); Intégration continue (Jenkins); SensioLabsInsight; Javascript (Angular.js); Rabbitmq; ZeroMQ.**
+* Vous côtoyez aussi **Varnish; Solr et/ou Elastic Search; Tests (phpunit, behat, casper); Intégration continue (Jenkins); SymfonyInsight; Javascript (Angular.js); Rabbitmq; ZeroMQ.**
 * Mais surtout vous avez du **talent et de l’envie** !
 
 
