@@ -25,7 +25,7 @@ Ayant conservé un esprit résolument convivial et une ambiance « start-up », 
 
 6. Le lundi, c’est Tv show : OiTNB, House of Cards, Stranger Things, mais en vrai, on attend tous Game of Thrones.
 
-7. Chaque nouvel arrivant reçoit sa BOX IN avec les indispensables pour se "sentir SL", son tee-shirt, sa tasse, son pin's, son stylo, ses stikeurs son elePHPant Symfony, espèce protégée bien entendu
+7. Chaque nouvel arrivant reçoit sa BOX IN avec les indispensables pour se "sentir SL", son tee-shirt, sa tasse, son pin's, son stylo, ses stickers, son elePHPant Symfony, espèce protégée bien entendu
 
 ## Nos offres
 
