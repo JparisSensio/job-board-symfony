@@ -1,5 +1,4 @@
-# 👉 Développeur Symfony Clichy (H/F)
-
+# 👉 Lead Développeur (H/F)
 
 **Quel sera votre rôle ?** 
 
