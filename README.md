@@ -32,3 +32,6 @@ Ayant conservé un esprit résolument convivial et une ambiance « start-up », 
 - <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/DeveloppeurLille.md">Developpeur Symfony Lille</a> 
 - <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/DeveloppeurClichy.md"> Developpeur Symfony Clichy</a>
 - <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/DeveloppeurRemote.md">Developpeur Symfony Remote</a>
+- <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/leaddev.md">Lead Developpeur</a>
+- <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/architecte.md">Architecte web</a>
+- <a href="https://github.com/jParisSensio/job-board-symfony/blob/master/techleadlille.md">Tech Lead Lille</a>
